@@ -1,5 +1,6 @@
 
 # Energy Efficiency Classification Analysis
+This project uses machine learning to classify building energy efficiency (heating and cooling loads) based on architectural features. The goal is to predict whether a building will have Low, Medium, or High energy requirements.
 
 ## Project Overview
 This project uses machine learning to classify building energy efficiency (heating and cooling loads) based on architectural features. The goal is to predict whether a building will have Low, Medium, or High energy requirements.
